@@ -1,6 +1,6 @@
 {
-    "app_version": 10,
-    "app_version_name": "1.1.0",
+    "app_version": 11,
+    "app_version_name": "1.1.1",
     "app_download_path": "https://www.coolapk.com/apk/168319",
-    "news": "- 修改视频播放器 \n- 优化界面"
+    "news": "- 修改视频播放器 \n- 已知 bug 修改"
 }
