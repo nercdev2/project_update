@@ -1,6 +1,6 @@
 {
-    "app_version": 10,
-    "app_version_name": "1.1.0",
-    "app_download_path": "",
-    "news": "- 优化列表跳转 \n- 已知 bug 修复"
+    "app_version": 16,
+    "app_version_name": "2.0.1",
+    "app_download_path": "http://zhushou.360.cn/detail/index/soft_id/3894789?recrefer=SE_D_%E5%87%86%E4%B8%9C",
+    "news": "- 不同单位用户可以看到不同启动页"
 }
