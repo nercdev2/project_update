@@ -1,6 +1,6 @@
 {
-    "app_version": 14,
-    "app_version_name": "2.1.0",
+    "app_version": 19,
+    "app_version_name": "3.1.1",
     "app_download_path": "http://sj.qq.com/myapp/detail.htm?apkName=com.nerc.zong_mooc",
-    "news": "- 更安全的登入方式 \n- 修复已知 bug \n"
+    "news": "- 取消进入系统的登录限制 \n"
 }
